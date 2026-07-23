@@ -2,11 +2,18 @@
 
 [![Profile](https://img.shields.io/badge/Profile-Jamilu%20Tukur%20Kalambaina-1f4fff?style=for-the-badge)](https://github.com/jtukurkalambaina-alt)
 [![Focus](https://img.shields.io/badge/Focus-AI%20Workflow%20Automation-0ea5e9?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
-[![Status](https://img.shields.io/badge/Status-Portfolio%20Hub-111827?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
+[![Status](https://img.shields.io/badge/Status-Portfolio%20Site-111827?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
 
-A portfolio hub for AI workflow automation, prompt engineering, data analysis, and Python-based problem solving.
+A polished one-page portfolio site for AI workflow automation, prompt engineering, data analysis, and Python-based problem solving.
 
-This repository is designed to give recruiters and collaborators a fast, clear view of my background, strengths, and featured work in AI-powered productivity.
+This repository now includes a static landing page that can be deployed directly on GitHub Pages or any static host.
+
+## Live Site Structure
+
+- `index.html` - the portfolio landing page
+- `styles.css` - responsive visual design and layout
+- `script.js` - small reveal animation for sections
+- `README.md` - project overview and setup notes
 
 ## About Me
 
@@ -22,14 +29,6 @@ I build practical AI-driven solutions that reduce repetitive work, improve decis
 - Python development
 - Documentation and research
 - Quality assurance and AI evaluation
-
-## Strengths
-
-- Clear thinking around process design and task automation
-- Strong attention to detail in documentation and QA
-- Practical use of AI tools for productivity
-- Comfortable working across technical and non-technical tasks
-- Focused on building useful, maintainable systems
 
 ## Featured Project
 
@@ -75,6 +74,15 @@ I am currently seeking opportunities in:
 - Advanced Python
 - AI Automation Systems
 
+## Deployment
+
+To publish this site on GitHub Pages:
+
+1. Go to the repository settings.
+2. Open the Pages section.
+3. Set the source to the default branch and root folder.
+4. Save and wait for the deployment link.
+
 ## Contact
 
 - Email: jamilukalambainatukur@gmail.com
@@ -84,4 +92,4 @@ I am currently seeking opportunities in:
 
 ---
 
-If you'd like, I can also turn this into a full portfolio site layout next.
+If you want, the next step is adding more project cards and screenshots as you publish new work.
