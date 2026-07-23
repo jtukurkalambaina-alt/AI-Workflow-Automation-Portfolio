@@ -1,30 +1,46 @@
 # AI Workflow Automation Portfolio
 
-Welcome to my AI Workflow Automation Portfolio.
+Welcome to my portfolio hub for AI workflow automation, prompt engineering, data analysis, and Python-based problem solving.
 
-This repository showcases projects, workflows, and experiments focused on Artificial Intelligence, Workflow Automation, Prompt Engineering, Data Analysis, and Python.
+This repository introduces my background, core skills, and selected work in AI-powered productivity and automation. It is designed to give recruiters and collaborators a fast, clear view of what I do and the direction I’m growing in.
 
----
+## About Me
 
-## 👨‍💻 About Me
+Hi, I’m **Jamilu Tukur Kalambaina**.
 
-Hi, I'm **Jamilu Tukur Kalambaina**.
+I am an AI Workflow Specialist with a background in Guidance and Counselling from Sokoto State University, Nigeria. I enjoy building practical AI-driven solutions that reduce repetitive work, improve decision-making, and make processes easier to manage.
 
-I am an AI Workflow Specialist with a background in Guidance and Counselling from Sokoto State University, Nigeria. I enjoy building AI-powered solutions that automate tasks, improve productivity, and help organizations make better decisions.
+My work is centered on:
 
-My interests include:
+- AI workflow design and automation
+- Prompt engineering and LLM interaction
+- Data analysis and validation
+- Python development
+- Documentation and research
+- Quality assurance and AI evaluation
 
-- Artificial Intelligence
-- Workflow Automation
-- Prompt Engineering
-- Data Analysis
-- Python Development
-- AI Evaluation
-- Documentation & Research
+## What I Bring
 
----
+- Clear thinking around process design and task automation
+- Strong attention to detail in documentation and QA
+- A practical approach to using AI tools for productivity
+- Experience working across technical and non-technical tasks
+- An interest in building useful, maintainable systems
 
-## 🛠 Skills
+## Featured Project
+
+### TaskForge API
+A REST API project designed for task management.
+
+Technologies:
+
+- Python
+- FastAPI
+- REST API
+
+Repository: https://github.com/jtukurkalambaina-alt/Task-forge-API
+
+## Skills
 
 - Python
 - Prompt Engineering
@@ -37,56 +53,7 @@ My interests include:
 - Quality Assurance
 - Problem Solving
 
----
-
-## 📂 Portfolio Projects
-
-### TaskForge API
-A REST API project designed for task management.
-
-**Technologies**
-- Python
-- FastAPI
-- REST API
-
-Repository:
-https://github.com/jtukurkalambaina-alt/Task-forge-API
-
----
-
-### AI Workflow Automation
-
-Examples of AI workflows designed to automate repetitive business processes.
-
-Topics include:
-
-- AI Operations
-- Prompt Engineering
-- Workflow Design
-- Automation
-- Productivity
-
----
-
-### Data Analysis
-
-Projects involving:
-
-- Data Cleaning
-- Data Validation
-- Reporting
-- Dashboard Preparation
-- Analytical Documentation
-
----
-
-### Prompt Engineering
-
-Prompt templates and AI interaction techniques for improving LLM performance.
-
----
-
-## 🎯 Career Interests
+## Career Interests
 
 I am currently seeking opportunities in:
 
@@ -98,25 +65,7 @@ I am currently seeking opportunities in:
 - Machine Learning Evaluation
 - AI Quality Assurance
 
----
-
-## 📫 Contact
-
-Email:
-**jamilukalambainatukur@gmail.com**
-
-LinkedIn:
-https://linkedin.com/in/jtkalambaina01
-
-GitHub:
-https://github.com/jtukurkalambaina-alt
-
-Location:
-Sokoto State, Nigeria
-
----
-
-## 🚀 Currently Learning
+## Currently Learning
 
 - Machine Learning Evaluation
 - LLM Benchmarking
@@ -124,6 +73,13 @@ Sokoto State, Nigeria
 - SQL
 - Advanced Python
 - AI Automation Systems
+
+## Contact
+
+- Email: jamilukalambainatukur@gmail.com
+- LinkedIn: https://linkedin.com/in/jtkalambaina01
+- GitHub: https://github.com/jtukurkalambaina-alt
+- Location: Sokoto State, Nigeria
 
 ---
 
