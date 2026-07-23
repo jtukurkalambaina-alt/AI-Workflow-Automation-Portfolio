@@ -1,10 +1,10 @@
-# AI Workflow Automation Portfolio
+# Data Annotation Specialist Portfolio
 
 [![Profile](https://img.shields.io/badge/Profile-Jamilu%20Tukur%20Kalambaina-1f4fff?style=for-the-badge)](https://github.com/jtukurkalambaina-alt)
-[![Focus](https://img.shields.io/badge/Focus-AI%20Workflow%20Automation-0ea5e9?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
+[![Focus](https://img.shields.io/badge/Focus-Data%20Annotation%20Specialist-0ea5e9?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
 [![Status](https://img.shields.io/badge/Status-Portfolio%20Site-111827?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
 
-A polished one-page portfolio site for AI workflow automation, prompt engineering, data analysis, and Python-based problem solving.
+A polished one-page portfolio site for data annotation, labeling quality, dataset review, and AI data workflows.
 
 This repository now includes a static landing page that can be deployed directly on GitHub Pages or any static host.
 
@@ -17,62 +17,60 @@ This repository now includes a static landing page that can be deployed directly
 
 ## About Me
 
-I am **Jamilu Tukur Kalambaina**, an AI Workflow Specialist with a background in Guidance and Counselling from Sokoto State University, Nigeria.
+I am **Jamilu Tukur Kalambaina**, a Data Annotation Specialist with a background in Guidance and Counselling from Sokoto State University, Nigeria.
 
-I build practical AI-driven solutions that reduce repetitive work, improve decision-making, and make processes easier to manage. My work sits at the intersection of automation, documentation, quality, and clear execution.
+I support AI projects through careful labeling, consistency checks, guideline review, and dataset quality work. My focus is on helping teams produce reliable training data that is accurate, organized, and easy to trust.
 
 ## What I Do
 
-- AI workflow design and automation
-- Prompt engineering and LLM interaction
-- Data analysis and validation
-- Python development
+- Data labeling and annotation review
+- Guideline adherence and taxonomy checks
+- Dataset consistency and QA
+- Edge case handling
 - Documentation and research
-- Quality assurance and AI evaluation
+- Data validation and organization
 
-## Featured Project
+## Featured Workflow
 
-### TaskForge API
-A REST API project designed for task management.
+### Annotation Quality Review
+A quality-focused workflow for reviewing labels, checking guideline alignment, handling edge cases, and keeping annotation output consistent across a dataset.
 
-**Tech Stack**
-- Python
-- FastAPI
-- REST API
-
-**Repository**
-- https://github.com/jtukurkalambaina-alt/Task-forge-API
+**Focus Areas**
+- Label consistency
+- Review QA
+- Guideline adherence
+- Dataset cleanup
 
 ## Core Skills
 
 | Area | Tools / Skills |
 | --- | --- |
-| Automation | Workflow automation, productivity systems, process design |
-| AI | Prompt engineering, AI evaluation, AI productivity |
-| Data | Data analysis, validation, reporting, Excel |
-| Engineering | Python, REST APIs, problem solving |
-| Delivery | Documentation, research, quality assurance |
+| Annotation | Data labeling, review, taxonomy alignment |
+| Quality | QA checks, consistency review, edge case handling |
+| Data | Data validation, organization, Excel |
+| Support | Documentation, research, problem solving |
+| Technical | Python, SQL, data workflows |
 
 ## Career Interests
 
 I am currently seeking opportunities in:
 
-- AI Evaluation
-- AI Operations
-- Data Analysis
-- Prompt Engineering
-- Workflow Automation
-- Machine Learning Evaluation
-- AI Quality Assurance
+- Data Annotation
+- Label Quality Assurance
+- Dataset Review
+- AI Data Operations
+- Content Moderation Support
+- Data Quality Assurance
+- AI Training Data Support
 
 ## Currently Learning
 
-- Machine Learning Evaluation
-- LLM Benchmarking
-- AI Testing
+- Annotation QA and evaluation
+- Dataset management and validation
+- Python for data work
 - SQL
-- Advanced Python
-- AI Automation Systems
+- Advanced Excel
+- AI workflow support
 
 ## Deployment
 
@@ -92,4 +90,4 @@ To publish this site on GitHub Pages:
 
 ---
 
-If you want, the next step is adding more project cards and screenshots as you publish new work.
+If you want, I can also add sample annotation case studies or a more portfolio-style project gallery next.
