@@ -1,16 +1,20 @@
 # AI Workflow Automation Portfolio
 
-Welcome to my portfolio hub for AI workflow automation, prompt engineering, data analysis, and Python-based problem solving.
+[![Profile](https://img.shields.io/badge/Profile-Jamilu%20Tukur%20Kalambaina-1f4fff?style=for-the-badge)](https://github.com/jtukurkalambaina-alt)
+[![Focus](https://img.shields.io/badge/Focus-AI%20Workflow%20Automation-0ea5e9?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
+[![Status](https://img.shields.io/badge/Status-Portfolio%20Hub-111827?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
 
-This repository introduces my background, core skills, and selected work in AI-powered productivity and automation. It is designed to give recruiters and collaborators a fast, clear view of what I do and the direction I’m growing in.
+A portfolio hub for AI workflow automation, prompt engineering, data analysis, and Python-based problem solving.
+
+This repository is designed to give recruiters and collaborators a fast, clear view of my background, strengths, and featured work in AI-powered productivity.
 
 ## About Me
 
-Hi, I’m **Jamilu Tukur Kalambaina**.
+I am **Jamilu Tukur Kalambaina**, an AI Workflow Specialist with a background in Guidance and Counselling from Sokoto State University, Nigeria.
 
-I am an AI Workflow Specialist with a background in Guidance and Counselling from Sokoto State University, Nigeria. I enjoy building practical AI-driven solutions that reduce repetitive work, improve decision-making, and make processes easier to manage.
+I build practical AI-driven solutions that reduce repetitive work, improve decision-making, and make processes easier to manage. My work sits at the intersection of automation, documentation, quality, and clear execution.
 
-My work is centered on:
+## What I Do
 
 - AI workflow design and automation
 - Prompt engineering and LLM interaction
@@ -19,39 +23,36 @@ My work is centered on:
 - Documentation and research
 - Quality assurance and AI evaluation
 
-## What I Bring
+## Strengths
 
 - Clear thinking around process design and task automation
 - Strong attention to detail in documentation and QA
-- A practical approach to using AI tools for productivity
-- Experience working across technical and non-technical tasks
-- An interest in building useful, maintainable systems
+- Practical use of AI tools for productivity
+- Comfortable working across technical and non-technical tasks
+- Focused on building useful, maintainable systems
 
 ## Featured Project
 
 ### TaskForge API
 A REST API project designed for task management.
 
-Technologies:
-
+**Tech Stack**
 - Python
 - FastAPI
 - REST API
 
-Repository: https://github.com/jtukurkalambaina-alt/Task-forge-API
+**Repository**
+- https://github.com/jtukurkalambaina-alt/Task-forge-API
 
-## Skills
+## Core Skills
 
-- Python
-- Prompt Engineering
-- Workflow Automation
-- Data Analysis
-- Microsoft Excel
-- AI Productivity
-- Documentation
-- Research
-- Quality Assurance
-- Problem Solving
+| Area | Tools / Skills |
+| --- | --- |
+| Automation | Workflow automation, productivity systems, process design |
+| AI | Prompt engineering, AI evaluation, AI productivity |
+| Data | Data analysis, validation, reporting, Excel |
+| Engineering | Python, REST APIs, problem solving |
+| Delivery | Documentation, research, quality assurance |
 
 ## Career Interests
 
@@ -83,4 +84,4 @@ I am currently seeking opportunities in:
 
 ---
 
-Thank you for visiting my portfolio.
+If you'd like, I can also turn this into a full portfolio site layout next.
