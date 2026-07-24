@@ -383,6 +383,10 @@ main {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
+.three-up {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .card,
 .project-card,
 .contact-card {
@@ -532,7 +536,8 @@ main {
   }
 
   .hero,
-  .two-up {
+  .two-up,
+  .three-up {
     grid-template-columns: 1fr;
   }
 
