@@ -4,22 +4,22 @@
 [![Focus](https://img.shields.io/badge/Focus-Data%20Annotation%20Specialist-0ea5e9?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
 [![Status](https://img.shields.io/badge/Status-Portfolio%20Site-111827?style=for-the-badge)](https://github.com/jtukurkalambaina-alt/AI-Workflow-Automation-Portfolio)
 
-A polished one-page portfolio site for data annotation, labeling quality, dataset review, and AI data workflows.
+This repository presents my work as a **Data Annotation Specialist** focused on labeling quality, guideline adherence, dataset review, and AI training data support.
 
-This repository now includes a static landing page that can be deployed directly on GitHub Pages or any static host.
+The site is designed to give recruiters and collaborators a fast view of my annotation strengths, quality mindset, and readiness for data-focused AI work.
 
 ## Live Site Structure
 
 - `index.html` - the portfolio landing page
 - `styles.css` - responsive visual design and layout
-- `script.js` - small reveal animation for sections
+- `script.js` - section reveal animation
 - `README.md` - project overview and setup notes
 
 ## About Me
 
 I am **Jamilu Tukur Kalambaina**, a Data Annotation Specialist with a background in Guidance and Counselling from Sokoto State University, Nigeria.
 
-I support AI projects through careful labeling, consistency checks, guideline review, and dataset quality work. My focus is on helping teams produce reliable training data that is accurate, organized, and easy to trust.
+I support AI teams through accurate labeling, consistency checks, guideline review, and dataset quality work. My focus is on helping produce reliable training data that is organized, consistent, and easy to trust.
 
 ## What I Do
 
@@ -27,13 +27,13 @@ I support AI projects through careful labeling, consistency checks, guideline re
 - Guideline adherence and taxonomy checks
 - Dataset consistency and QA
 - Edge case handling
-- Documentation and research
 - Data validation and organization
+- Documentation and research
 
 ## Featured Workflow
 
 ### Annotation Quality Review
-A quality-focused workflow for reviewing labels, checking guideline alignment, handling edge cases, and keeping annotation output consistent across a dataset.
+A quality-focused workflow for checking labels, validating guideline alignment, handling edge cases, and keeping annotation output consistent across a dataset.
 
 **Focus Areas**
 - Label consistency
@@ -90,4 +90,4 @@ To publish this site on GitHub Pages:
 
 ---
 
-If you want, I can also add sample annotation case studies or a more portfolio-style project gallery next.
+If you want, I can add sample annotation case studies or build a more portfolio-style project gallery next.
