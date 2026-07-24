@@ -34,6 +34,17 @@ I support AI teams through accurate labeling, consistency checks, guideline revi
 ### Annotation Quality Review
 A quality-focused workflow for checking labels, validating guideline alignment, handling edge cases, and keeping annotation output consistent across a dataset.
 
+## Case Studies
+
+- `Text classification review` - corrected ambiguous labels, checked class assignments against the brief, and reduced inconsistency across batches.
+- `Entity annotation cleanup` - standardized spans, resolved taxonomy mismatches, and improved dataset reliability.
+
+## Gallery
+
+- `Labeling QA` - consistency checks, uncertain item review, and brief alignment.
+- `Guideline Review` - taxonomy application and instruction-following across batches.
+- `Dataset Cleanup` - duplicate checks, error review, and formatting cleanup.
+
 ## Core Skills
 
 - Data labeling
@@ -68,6 +79,15 @@ I am currently seeking opportunities in:
 - Advanced Excel
 - AI workflow support
 
+## Deployment
+
+To publish this site on GitHub Pages:
+
+1. Go to the repository settings.
+2. Open the Pages section.
+3. Set the source to the default branch and root folder.
+4. Save the settings and wait for the live site link to appear.
+
 ## Contact
 
 - Email: jamilukalambainatukur@gmail.com
@@ -77,4 +97,4 @@ I am currently seeking opportunities in:
 
 ---
 
-If you want, I can add sample annotation case studies or a project gallery next.
+If you want, I can add screenshot placeholders or turn the case studies into richer project cards next.
